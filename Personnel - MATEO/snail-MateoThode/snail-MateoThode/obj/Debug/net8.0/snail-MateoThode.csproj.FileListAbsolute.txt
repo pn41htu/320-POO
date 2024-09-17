@@ -1,0 +1,15 @@
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\bin\Debug\net8.0\snail-MateoThode.exe
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\bin\Debug\net8.0\snail-MateoThode.deps.json
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\bin\Debug\net8.0\snail-MateoThode.runtimeconfig.json
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\bin\Debug\net8.0\snail-MateoThode.dll
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\bin\Debug\net8.0\snail-MateoThode.pdb
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.AssemblyInfoInputs.cache
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.AssemblyInfo.cs
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.csproj.CoreCompileInputs.cache
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.sourcelink.json
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.dll
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\refint\snail-MateoThode.dll
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.pdb
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\snail-MateoThode.genruntimeconfig.cache
+C:\Users\pn41htu\Documents\GitHub\320-POO\Personnel\snail-MateoThode\snail-MateoThode\obj\Debug\net8.0\ref\snail-MateoThode.dll

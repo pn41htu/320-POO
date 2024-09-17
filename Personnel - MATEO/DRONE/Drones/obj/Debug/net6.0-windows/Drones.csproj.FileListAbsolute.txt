@@ -1,0 +1,65 @@
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.exe
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.deps.json
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.runtimeconfig.json
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.dll
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.pdb
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AirSpace.resources
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.GenerateResource.cache
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfoInputs.cache
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfo.cs
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.CoreCompileInputs.cache
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.dll
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\refint\Drones.dll
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.pdb
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.genruntimeconfig.cache
+C:\Users\jonmelly.DGEP\Downloads\Drones\Drones\obj\Debug\net6.0-windows\ref\Drones.dll
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AirSpace.resources
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.GenerateResource.cache
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfoInputs.cache
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfo.cs
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.CoreCompileInputs.cache
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.dll
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\refint\Drones.dll
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.pdb
+C:\Users\px05iql\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.exe
+C:\Users\px05iql\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.deps.json
+C:\Users\px05iql\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.runtimeconfig.json
+C:\Users\px05iql\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.dll
+C:\Users\px05iql\Downloads\Drones\Drones\bin\Debug\net6.0-windows\Drones.pdb
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\Drones.genruntimeconfig.cache
+C:\Users\px05iql\Downloads\Drones\Drones\obj\Debug\net6.0-windows\ref\Drones.dll
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\bin\Debug\net6.0-windows\Drones.exe
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\bin\Debug\net6.0-windows\Drones.deps.json
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\bin\Debug\net6.0-windows\Drones.runtimeconfig.json
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\bin\Debug\net6.0-windows\Drones.dll
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\bin\Debug\net6.0-windows\Drones.pdb
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.AirSpace.resources
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.GenerateResource.cache
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfoInputs.cache
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfo.cs
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.csproj.CoreCompileInputs.cache
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.dll
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\refint\Drones.dll
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.pdb
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\Drones.genruntimeconfig.cache
+C:\Users\pn41htu\Downloads\Drone\Drones 1_2 (2)_2_2\Drones 1_2 (2)_2\Drones 1_2 (2)\Drones 1_2\Drones 1\Drones\Drones\obj\Debug\net6.0-windows\ref\Drones.dll
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\bin\Debug\net6.0-windows\Drones.exe
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\bin\Debug\net6.0-windows\Drones.deps.json
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\bin\Debug\net6.0-windows\Drones.runtimeconfig.json
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\bin\Debug\net6.0-windows\Drones.dll
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\bin\Debug\net6.0-windows\Drones.pdb
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.AirSpace.resources
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.csproj.GenerateResource.cache
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfoInputs.cache
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.AssemblyInfo.cs
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.csproj.CoreCompileInputs.cache
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.sourcelink.json
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.dll
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\refint\Drones.dll
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.pdb
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\Drones.genruntimeconfig.cache
+D:\Modules\320-POO\Personnel - MATEO\DRONE\Drones\obj\Debug\net6.0-windows\ref\Drones.dll
